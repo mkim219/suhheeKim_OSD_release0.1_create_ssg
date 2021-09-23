@@ -26,6 +26,7 @@ This is an HTML generator from the text file to HTML.
 # Main Features
 1. Run by Commands, such as help, version, and input(Please look at the HElP for details!)
 2. It will convert your text file to a Static HTML file with some styles!
+3. It wil also convert makrdown(md file) to a static file with styles as well
 
 # Optional Features
 1. It has built-in Fancy-styled CSS!
